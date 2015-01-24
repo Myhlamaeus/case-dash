@@ -1,0 +1,26 @@
+{
+  "name": "case-dash",
+  "version": "0.0.0",
+  "main": "case-dash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "case",
+    "camel",
+    "camelcase"
+  ],
+  "author": "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ileri/case-dash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ileri/case-dash/issues"
+  },
+  "homepage": "https://github.com/ileri/case-dash",
+  "dependencies": {
+    "case-separated": "^0.1.0"
+  }
+}
