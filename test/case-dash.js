@@ -1,7 +1,7 @@
 var caseDash = require("../case-dash"),
     assert = require("assert");
 
-describe("case-dot", function() {
+describe("case-dash", function() {
     var tests = [
             ["T", ["T"]],
             ["t", ["t"]],
