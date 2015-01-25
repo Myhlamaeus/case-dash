@@ -1,4 +1,4 @@
-case-dash
+case-dash [![Code Climate](https://codeclimate.com/github/ileri/case-dot/badges/gpa.svg)](https://codeclimate.com/github/ileri/case-dot) [![Build Status](https://travis-ci.org/ileri/case-dash.svg)](https://travis-ci.org/ileri/case-dash)
 ==============
 > Parse and stringify strings delimited by a dash
 
