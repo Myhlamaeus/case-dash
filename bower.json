@@ -1,7 +1,7 @@
 {
   "name": "case-dash",
   "main": "case-dash.js",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "homepage": "https://github.com/ileri/case-dash",
   "authors": [
     "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>"
