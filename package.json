@@ -7,14 +7,14 @@
     "url": "https://github.com/ileri/case-dash/issues"
   },
   "dependencies": {
-    "case-separated": "^0.2.0"
+    "case-separated": "^0.2.2"
   },
   "devDependencies": {
-    "babel": "^4.4.6",
+    "babel": "^5.1.10",
     "gulp": "^3.8.11",
-    "gulp-babel": "^4.0.0",
+    "gulp-babel": "^5.1.0",
     "gulp-mocha": "^2.0.1",
-    "gulp-sourcemaps": "^1.5.1"
+    "gulp-sourcemaps": "^1.5.2"
   },
   "homepage": "https://github.com/ileri/case-dash",
   "keywords": [
