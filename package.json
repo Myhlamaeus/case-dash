@@ -30,6 +30,6 @@
     "url": "https://github.com/ileri/case-dash.git"
   },
   "scripts": {
-    "test": "standard && grunt test"
+    "test": "standard && gulp test"
   }
 }
