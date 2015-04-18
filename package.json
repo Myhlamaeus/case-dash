@@ -20,8 +20,8 @@
   "keywords": [
     "case",
     "dash",
-    "dashcase",
-    "dash-case"
+    "dash-case",
+    "dashcase"
   ],
   "license": "MIT",
   "main": "case-dash.js",
