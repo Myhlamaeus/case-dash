@@ -1,5 +1,6 @@
-var caseDash = require("../case-dash"),
-    assert = require("assert");
+import caseDash from "../case-dash";
+import assert from "assert";
+
 
 describe("case-dash", function() {
     var tests = [
