@@ -23,7 +23,7 @@
     "dashcase",
     "dash-case"
   ],
-  "license": "GPL-3.0",
+  "license": "MIT",
   "main": "case-dash.js",
   "repository": {
     "type": "git",
