@@ -24,7 +24,7 @@
     "dashcase"
   ],
   "license": "MIT",
-  "main": "case-dash.js",
+  "main": "dist/case-dash.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/ileri/case-dash.git"
