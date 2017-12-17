@@ -1,6 +1,6 @@
 {
   "name": "case-dash",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Parse and stringify strings delimited by a dash",
   "homepage": "https://github.com/Myhlamaeus/case-dash",
   "author": {
