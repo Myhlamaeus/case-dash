@@ -1,27 +1,40 @@
-case-dash [![Code Climate](https://codeclimate.com/github/ileri/case-dash/badges/gpa.svg)](https://codeclimate.com/github/ileri/case-dash) [![Build Status](https://travis-ci.org/ileri/case-dash.svg)](https://travis-ci.org/ileri/case-dash) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard
-==============
+# case-dash [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+
 > Parse and stringify strings delimited by a dash
 
-Install
---------------
-```
+## Installation
+
+```sh
 $ npm install --save case-dash
 ```
 
-Usage
---------------
+## Usage
+
 ```js
-var caseDash = require('case-dash')
+const caseDash = require("case-dash");
 
-// parse
-caseDash.parse('this-is-an-example') // ['this', 'is', 'an', 'example']
+// Parse
+caseDash.parse("this-is-an-example"); // ['this', 'is', 'an', 'example']
 
-// stringify
-caseDash.stringify(['this', 'is', 'an', 'example']) // 'this-is-an-example'
+// Stringify
+caseDash.stringify(["this", "is", "an", "example"]); // 'this-is-an-example'
 
-// check
-caseDash.is('this-is-an-example') // true
-caseDash.is('this_is_an_example') // false
-caseDash.is('thisIsAnExample') // false
-caseDash.is('this') // false
+// Check
+caseDash.is("this-is-an-example"); // True
+caseDash.is("this_is_an_example"); // False
+caseDash.is("thisIsAnExample"); // False
+caseDash.is("this"); // False
 ```
+
+## License
+
+MIT © [Malte-Maurice Dreyer](https://github.com/Myhlamaeus)
+
+[npm-image]: https://badge.fury.io/js/case-dash.svg
+[npm-url]: https://npmjs.org/package/case-dash
+[travis-image]: https://travis-ci.org/Myhlamaeus/case-dash.svg?branch=master
+[travis-url]: https://travis-ci.org/Myhlamaeus/case-dash
+[daviddm-image]: https://david-dm.org/Myhlamaeus/case-dash.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/Myhlamaeus/case-dash
+[coveralls-image]: https://coveralls.io/repos/Myhlamaeus/case-dash/badge.svg
+[coveralls-url]: https://coveralls.io/r/Myhlamaeus/case-dash
